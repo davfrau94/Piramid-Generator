@@ -1,7 +1,7 @@
 # 🔺 Pyramid Generator
 
 A simple and interactive **Pyramid Generator Web App** built with **JavaScript**, created as part of the [FreeCodeCamp.org](https://www.freecodecamp.org) curriculum in the **JavaScript Algorithms and Data Structures** certification.  
-This exercise introduce some basic JavaScript logic and string manipulation.
+This exercise introduce some basic JavaScript logic and string manipulation. I learned how to work with arrays, strings, functions, loops, if/else statements, and more.
 
 ---
 
